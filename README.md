@@ -8,8 +8,13 @@
 
 ## Currenly Learning 
 - Terraform  
-- Amazon Web Services  
-- Docker
+- AWS Developer
+
+## To do
+- Ansible
+- Jenkins
+- Kubernetes
+- ...
 
 <br/>  
 

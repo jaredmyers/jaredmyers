@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey <img src="assests/gifs/hi.gif" width="30px" height="30px">
 
 <a href="https://linkedin.com/in/jaredmyers" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />

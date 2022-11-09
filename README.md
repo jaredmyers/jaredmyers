@@ -1,10 +1,5 @@
 # Howdy <img src="assets/hi.gif" width="30px" height="30px">
 
-<a href="https://linkedin.com/in/jaredmyers" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<br/>
-
 ![AWS saa](assets/aws_saa_102px.png)
 
 ## Currenly Learning 
@@ -49,3 +44,8 @@
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" /></a>  
 --></div>
+<br/>
+<a href="https://linkedin.com/in/jaredmyers" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+

@@ -5,7 +5,7 @@
 </a>
 <br/>
 
-![AWS saa](assets/aws_saa.png)
+![AWS saa](assets/aws_saa_102px.png)
 
 ## Currenly Learning 
 - Terraform  

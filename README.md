@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/jaredmyers" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f794d88a-0bc5-4f39-bdf7-835eecdef48f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![AWS Solutions Architext](assets/aws_saa.png)
 
 <br/>  
 

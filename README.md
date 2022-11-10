@@ -47,7 +47,9 @@
 --></div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredmyers&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredmyers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![jareds's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaredmyers)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://linkedin.com/in/jaredjmyers" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />

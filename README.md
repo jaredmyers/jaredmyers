@@ -46,6 +46,9 @@
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" /></a>  
 --></div>
 <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredmyers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://linkedin.com/in/jaredjmyers" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>

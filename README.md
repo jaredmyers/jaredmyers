@@ -15,7 +15,7 @@
 
 <br/>  
 
-## Languages and Tools  
+## :hammer_and_wrench: Languages and Tools  
 <!--I don't endorse mixing html and markdown. my apologies. in all likelihood i will shamefully redo this-->
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -49,7 +49,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredmyers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![jareds's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaredmyers)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaredmyers&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 <a href="https://linkedin.com/in/jaredjmyers" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />

@@ -49,6 +49,7 @@
 
 
 <p align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredmyers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaredmyers&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)

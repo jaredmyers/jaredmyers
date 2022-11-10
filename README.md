@@ -3,17 +3,15 @@
 ![LPIC1](assets/lpic1_102px.png)
 ![AWS saa](assets/aws_saa_102px.png)
 
-## Currenly Learning 
+## :seedling: Currenly Learning 
 - Terraform  
 - AWS Developer
 
-## To do
+## :spiral_notepad: To Do
 - Ansible
 - Jenkins
 - Kubernetes
 - ...
-
-<br/>  
 
 ## :hammer_and_wrench: Languages and Tools  
 <!--I don't endorse mixing html and markdown. my apologies. in all likelihood i will shamefully redo this-->

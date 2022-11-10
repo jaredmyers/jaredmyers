@@ -47,10 +47,14 @@
 --></div>
 <br/>
 
+
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredmyers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaredmyers&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
+</p> 
+  
 <a href="https://linkedin.com/in/jaredjmyers" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>

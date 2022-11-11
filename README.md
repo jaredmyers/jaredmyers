@@ -2,6 +2,7 @@
 
 ![LPIC1](assets/lpic1_102px.png)
 ![AWS saa](assets/aws_saa_102px.png)
+![terraform](assets/terraform_102px.png)
 
 ## :seedling: Currenly Learning 
 - Terraform  

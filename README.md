@@ -4,9 +4,9 @@
 ![AWS saa](assets/aws_saa_102px.png)
 ![terraform](assets/terraform_102px.png)
 
-## :seedling: Currenly Learning 
-- Terraform  
+## :seedling: Currenly Learning
 - AWS Developer
+- ...
 
 ## :spiral_notepad: To Do
 - Ansible

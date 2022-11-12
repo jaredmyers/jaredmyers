@@ -6,10 +6,9 @@
 
 ## :seedling: Currenly Learning
 - AWS Developer
-- ...
+- Ansible
 
 ## :spiral_notepad: To Do
-- Ansible
 - Jenkins
 - Kubernetes
 - ...

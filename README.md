@@ -14,7 +14,7 @@
 - ...
 
 ## :construction: Current Project
-Microservice architecture consisting of React, GoLang, Python, MySQL, MongoDB, Redis, REST, Linux, with deployment using Kubernetes and a version being designed for AWS infrastructure. 
+Microservice architecture consisting of React, GoLang, Python, MySQL, MongoDB, Redis, REST, Linux, with deployment using Kubernetes and a version being designed for AWS infrastructure. Currently [in developement here](https://github.com/jaredmyers/groceryapp).
 
 ![microservice app](assets/microservice_projectv1.png)
 

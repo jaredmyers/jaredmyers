@@ -6,11 +6,11 @@
 
 ## :seedling: Currenly Learning
 - AWS Developer
-- Ansible
+- Kubernetes
 
 ## :spiral_notepad: To Do
 - Jenkins
-- Kubernetes
+- ...
 - ...
 
 ## :construction: Current Project

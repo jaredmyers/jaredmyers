@@ -16,9 +16,9 @@
 ## :construction: Current Project
 
 ## :round_pushpin: Last Project
-If interested, [check out my last project](https://github.com/jaredmyers/social_app) where I designed a distributed system using Python, Django, Linux, RabbitMQ, RPC, Docker Compose.
+If interested, [check out my last project](https://github.com/jaredmyers/social_app) where I designed a distributed system using Python, Django, Linux, RabbitMQ, RPC, and container orchestration with Docker Compose.
 
-![distributed app](assets/python_distributed_application.png)
+![distributed app](assets/python_distributed_application2.png)
 
 ## :hammer_and_wrench: Languages and Tools  
 <!--I don't endorse mixing html and markdown. my apologies. in all likelihood i will shamefully redo this-->

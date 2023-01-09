@@ -17,7 +17,7 @@
 Microservice architecture consisting of React, GoLang, Python, MySQL, MongoDB, Redis, REST, Linux, with deployment using Kubernetes and a version being designed for AWS infrastructure. Currently [in developement here](https://github.com/jaredmyers/groceryapp).
 
 <p align="center"> <!-- it hurts me too.-->
-  <img src="https://github.com/jaredmyers/jaredmyers/blob/main/assets/microservice_projectv1.png?raw=true" />
+  <img src="https://github.com/jaredmyers/jaredmyers/blob/main/assets/rev2.png?raw=true" />
 </p>
 
 ## :round_pushpin: Last Project

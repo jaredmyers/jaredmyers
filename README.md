@@ -1,4 +1,4 @@
-# Howdy <img src="assets/hi.gif" width="30px" height="30px"> :santa:
+# Howdy <img src="assets/hi.gif" width="30px" height="30px">
 
 ![LPIC1](assets/lpic1_102px.png)
 ![AWS saa](assets/aws_saa_102px.png)

@@ -20,6 +20,14 @@ Microservice architecture consisting of React, GoLang, Python, MySQL, MongoDB, R
   <img src="https://github.com/jaredmyers/jaredmyers/blob/main/assets/rev2.png?raw=true" />
 </p>
 
+## :round_pushpin:
+
+Currently adding JWT, [lessons from this](https://github.com/jaredmyers/gogym/api/gin_mongo) are being incorporated into the poject above :arrow_up:.
+
+<p align="center"> <!-- it hurts me too.-->
+  <img src="https://github.com/jaredmyers/gogym/blob/main/api/gin_mongo/restAPI.png?raw=true" />
+</p>
+
 ## :round_pushpin: Last Project
 If interested, [check out my last project](https://github.com/jaredmyers/social_app) where I designed a distributed system using Python, Django, Linux, RabbitMQ, RPC, and container orchestration with Docker Compose.
 

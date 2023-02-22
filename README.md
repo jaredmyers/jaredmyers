@@ -22,7 +22,7 @@ Microservice architecture consisting of React, GoLang, Python, MySQL, MongoDB, R
 
 ## :round_pushpin:
 
-Currently adding JWT, [lessons from this](https://github.com/jaredmyers/gogym/api/gin_mongo) are being incorporated into the poject above :arrow_up:.
+Currently adding JWT, [lessons from this](https://github.com/jaredmyers/gogym/tree/main/api/gin_mongo)) are being incorporated into the poject above :arrow_up:.
 
 <p align="center"> <!-- it hurts me too.-->
   <img src="https://github.com/jaredmyers/gogym/blob/main/api/gin_mongo/restAPI.png?raw=true" />

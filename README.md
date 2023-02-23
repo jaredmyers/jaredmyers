@@ -13,8 +13,8 @@
 - ...
 - ...
 ## :writing_hand: Code Examples
-- [RestAPI: Golang, Gorilla, JWT, Bycrypt, OpenAPI](https://github.com/jaredmyers/groceryapp/tree/main/backend)
-- RestAPI: Python, FastAPI, JWT, Bcrypt, OpenAPI
+- [RestAPI: Golang, Gorilla, JWT, bcrypt, OpenAPI](https://github.com/jaredmyers/groceryapp/tree/main/backend)
+- RestAPI: Python, FastAPI, JWT, bcrypt, OpenAPI
 
 ## :construction: Current Project
 Microservice architecture consisting of React, GoLang, Python, MySQL, MongoDB, Redis, REST, Linux, with deployment using Kubernetes and a version being designed for AWS infrastructure. Currently [in developement here](https://github.com/jaredmyers/groceryapp).

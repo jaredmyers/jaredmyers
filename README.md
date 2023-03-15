@@ -13,7 +13,7 @@
 - ...
 - ...
 ## :writing_hand: Code Examples
-- [RestAPI: Golang, Gorilla, JWT, bcrypt, OpenAPI](https://github.com/jaredmyers/groceryapp/tree/main/backend) (in progress)
+- [RestAPI: Golang, Gorilla, JWT, bcrypt, OpenAPI](https://github.com/jaredmyers/apifun/tree/main/go_api) (in progress)
 - RestAPI: Python, FastAPI, JWT, bcrypt, OpenAPI (in progress)
 
 ## :construction: Current Project

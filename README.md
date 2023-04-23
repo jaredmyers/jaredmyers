@@ -12,11 +12,12 @@
 - Jenkins
 - ...
 - ...
-## :writing_hand: Code Examples
-- [RestAPI: Golang, Chi, JWT, bcrypt, Prometheus/Grafana, TDD](https://github.com/jaredmyers/apifun/tree/main/go_api) (in progress)
-- RestAPI: Python, FastAPI, JWT, bcrypt, TDD (in progress)
 
-## :construction: Current Project
+## :writing_hand: Code Examples (WIP)
+- [RestAPI: Golang, Chi, Redis, Postgres, Prometheus](https://github.com/jaredmyers/apifun/tree/main/go_api)
+- [RestAPI: Python, FastAPI, Pydantic, SQLModel, Postgres](https://github.com/jaredmyers/apifun/tree/main/go_api)
+
+## :construction: Current Project (on hold)
 Microservice architecture consisting of React, GoLang, Python, MySQL, MongoDB, Redis, REST, Linux, with deployment using Kubernetes and a version being designed for AWS infrastructure. Currently [in developement here](https://github.com/jaredmyers/groceryapp).
 
 <p align="center"> <!-- it hurts me too.-->

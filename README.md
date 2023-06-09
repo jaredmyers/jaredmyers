@@ -5,7 +5,6 @@
 ![terraform](assets/terraform_102px.png)
 
 ## :seedling: Currenly Learning
-- AWS Developer
 - Kubernetes
 
 ## :spiral_notepad: To Do
